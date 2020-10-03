@@ -36,3 +36,6 @@
 	font-size: 1.2rem;
 	align-content: center;
 }
+.ui.label > .detail {
+	margin-left: 0;
+}
