@@ -4,9 +4,6 @@
 .header.thin-header {
 	font-weight: 100;
 }
-.footer.vertical.segment {
-	margin-top: 2em;
-}
 .icon {
 	transition: all .2s ease-in-out;
 }
