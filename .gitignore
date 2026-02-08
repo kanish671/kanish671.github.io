@@ -1,1 +1,8 @@
 .DS_Store
+node_modules
+dist
+vue-temp
+*.local
+.env
+.env.*
+!.env.example
