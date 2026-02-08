@@ -13,4 +13,4 @@ Repository for [my website](https://kanish671.github.io) built with Vue.
 
 1. In the repo: **Settings → Pages → Build and deployment**
 2. Set **Source** to **GitHub Actions**.
-3. Push to `master` or `main`; the workflow builds and deploys the site.
+3. Push to `master`. The workflow builds and deploys the site.
